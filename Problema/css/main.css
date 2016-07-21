@@ -1,0 +1,45 @@
+*{
+	margin:20px;
+}
+.bloque1{
+	display: block;
+	border:3px solid #212121;
+	background: #808080;
+	width: 230px;
+	height: 250px;
+	margin-left:20px;
+}
+.bloque2{
+	display: block;
+	margin-left:20px;
+	border:3px solid #212121;
+	background: #808080;
+	width: 900px;
+	height: 330px;
+}
+
+.bloblo{
+	display: inline-block;
+	margin:30px;
+	border:3px solid #212121;
+	background: #808080;
+	width: 230px;
+	height: 250px;
+}
+.bloque3{
+	display:inline-block;
+	border:3px solid #212121;
+	background: #808080;
+	width: 230px;
+	height: 250px;
+	margin-left:20px;
+}	
+.bloque4{
+	display:block;
+	border:3px solid #212121;
+	background: #808080;
+	width: 230px;
+	height: 250px;
+	margin-left:20px;
+}
+
